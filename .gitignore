@@ -1,0 +1,24 @@
+# Compiled classes
+bin/
+out/
+target/
+*.class
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Exports generated at runtime
+data/*_export.csv
+
+# Logs / temp
+*.log
+*.tmp
+
+# OS
+desktop.ini

@@ -1,0 +1,8 @@
+---
+description: Keep git commits attributed only to the student GitHub account
+alwaysApply: true
+---
+
+Never add "Made-with: Cursor", "Co-authored-by: Cursor", "Made with Cursor", or any Cursor attribution/trailer to commits, PRs, or code comments.
+
+When committing in this repository, use only the local git author configured for this folder (goldenmermaid2004). Do not change global git config. Do not add Cursor as author, committer, or co-author.

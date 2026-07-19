@@ -1,0 +1,6 @@
+# id|name|email|borrowedBooks
+MEM001|Aisha Khan|aisha.khan@example.com|9781617294945
+MEM002|Rohan Mehta|rohan.mehta@example.com|9780132350884
+MEM003|Priya Sharma|priya.sharma@example.com|-
+MEM004|James Wilson|james.wilson@example.com|-
+MEM005|Sara Patel|sara.patel@example.com|-

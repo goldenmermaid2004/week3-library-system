@@ -1,0 +1,6 @@
+# ISBN|title|author|year|available|borrowedBy|dueDate|reservations
+9780134685991|Effective Java|Joshua Bloch|2018|true|-|-|-
+9781617294945|Spring in Action|Craig Walls|2020|false|MEM001|2026-07-10|-
+9781492052205|Fluent Python|Luciano Ramalho|2021|true|-|-|-
+9780596009205|Head First Design Patterns|Eric Freeman|2004|true|-|-|-
+9780132350884|Clean Code|Robert C. Martin|2008|false|MEM002|2026-07-25|MEM003
