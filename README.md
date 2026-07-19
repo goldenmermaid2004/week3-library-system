@@ -166,7 +166,18 @@ Get-Content docs/smoke_input.txt | java -cp bin library.Main
 
 ## Visual Documentation
 
-Place screenshots of the menu, book list, borrow/return flow, and statistics in the `docs/` folder (for example `docs/menu.png`, `docs/statistics.png`).
+Console screenshots live in `docs/` (`screenshot-menu.png`, `screenshot-books.png`, `screenshot-search.png`, `screenshot-stats.png`, `screenshot-overdue.png`, `screenshot-validation.png`).
+
+A full submission document is also provided as:
+
+**[Week3-Library-Management-System-Documentation.docx](Week3-Library-Management-System-Documentation.docx)**
+
+Regenerate screenshots and the Word file anytime:
+
+```bash
+python docs/make_screenshots.py
+python docs/make_docx.py
+```
 
 ## Quality Checklist
 
